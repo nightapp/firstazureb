@@ -32,14 +32,14 @@
     <h2>Log on</h2>
         <form action="logon.php" method="post">
             <fieldset>
-            <legend>Log on</legend>
+            <legend>Log on Wlcome Azure and Github</legend>
             <ol>
                 <li>
-                    <label for="username">Username:</label> 
+                    <label for="username">Username of Github:</label> 
                     <input type="text" name="username" value="" id="username" />
                 </li>
                 <li>
-                    <label for="password">Password:</label>
+                    <label for="password">Password of Github:</label>
                     <input type="password" name="password" value="" id="password" />
                 </li>
             </ol>
